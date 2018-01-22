@@ -1,2 +1,2 @@
 # pen
-qu ⠶ ocu ⠶ pe
+qu ⠶ ocu ⠶ [pen](https://github.com/naiveoculus/pen/wiki)
